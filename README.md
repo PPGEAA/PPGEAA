@@ -6,7 +6,7 @@
 
 <p>
   Neste ambiente serão divulgados informações relevantes para a comunidade científica, tais como informações sociais não sensíveis, análises de dados em formato de tabelas, mapas, scripts de modelagem de dados e 
-  de aplicação de métodos de Inteligência Artifical - IA,, entre outros.
+  de aplicação de métodos de Inteligência Artifical - IA, entre outros.
 </p>
 
 ## Estudo de Indicadores de Qualidade de Vida e Bem-Estar na Amazônia
